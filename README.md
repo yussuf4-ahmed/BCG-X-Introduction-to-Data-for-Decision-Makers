@@ -6,7 +6,7 @@
 
 *An end-to-end consulting simulation completed through the BCG X Virtual Experience Program on Forage.*
 
-<img src="assets/project-banner.png" width="100%">
+<img src="assets/simulation-banner.png" width="100%">
 
 <br>
 
