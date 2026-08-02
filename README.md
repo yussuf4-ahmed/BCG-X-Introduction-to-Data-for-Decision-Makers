@@ -180,7 +180,6 @@ I also recommended continuing controlled A/B testing on future email campaigns t
 bcg-data-for-decision-makers
 │
 ├── README.md
-├── LICENSE
 │
 ├── assets
 │   ├── project-banner.png
@@ -189,23 +188,19 @@ bcg-data-for-decision-makers
 │   └── certificate.png
 │
 ├── Task 1 - Data Analysis
-│   ├── Campaign Data.xlsx
-│   ├── My Analysis.xlsx
-│   ├── Example Answer.xlsx
-│   └── screenshots
+│   ├── Campaign_Data_Week1.xlsx
+│   ├── BCG X Chapters.pdf
+│   ├── Data for Decision Makers final Email.pdf
+│   ├── Meet BCG X.pdf
+│   ├── Campaign Materials.pdf
+│   └── clinet-overview.pdf
 │
 ├── Task 2 - Communicating Findings
 │   ├── Recommendation Slide.pptx
-│   ├── My Recommendation.pdf
-│   ├── Example Answer.pdf
-│   └── screenshots
+│   └── Recommendation Slide.pdf
 │
 ├── Certificate
-│   └── BCG X Certificate.pdf
-│
-└── docs
-    ├── Project Timeline.md
-    └── Lessons Learned.md
+    └── BCG X Certificate.pdf
 ```
 
 ---
