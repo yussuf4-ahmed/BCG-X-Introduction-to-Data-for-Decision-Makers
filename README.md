@@ -86,48 +86,8 @@ To answer this question, I focused on four objectives:
 
 # Project Workflow
 
-```text
-                       Marketing Campaign Dataset
-                                   │
-                                   ▼
-                      Data Exploration & Cleaning
-                                   │
-                                   ▼
-                  Pivot Tables & Performance Analysis
-                                   │
-                                   ▼
-                Campaign & Channel Performance Comparison
-                                   │
-                                   ▼
-              Customer Segmentation Analysis
-              (New Customers vs Existing Customers)
-                                   │
-                                   ▼
-                     Business Insight Generation
-                                   │
-                                   ▼
-                  Executive Recommendation Slide
-                                   │
-                                   ▼
-                   Client-Ready Business Decision
-```
-
----
-
-# Project Preview
-
-## Campaign Performance Analysis
-
 <p align="center">
-<img src="assets/task1-preview.png" width="90%">
-</p>
-
----
-
-## Executive Recommendation
-
-<p align="center">
-<img src="assets/recommendation-slide.png" width="90%">
+<img src="assets/workflow.png" width="90%">
 </p>
 
 ---
