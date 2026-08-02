@@ -184,7 +184,6 @@ bcg-data-for-decision-makers
 │
 ├── assets
 │   ├── project-banner.png
-│   ├── task1-preview.png
 │   ├── recommendation-slide.png
 │   ├── workflow.png
 │   └── certificate.png
