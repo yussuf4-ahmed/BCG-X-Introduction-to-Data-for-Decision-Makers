@@ -246,7 +246,7 @@ Successful analysts do more than report metrics—they translate data into recom
 
 <p align="center">
 
-<img src="assets/certificate.png" width="80%">
+<img src="assets/certificate.jpg" width="80%">
 
 </p>
 
